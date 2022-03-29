@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevTheTester
 - 👀 I’m interested in ... Coding, Testing, Gaming, Blockchains, Other things.    
-- 🌱 I’m currently learning ... Solidity, QA. 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... QA, HTML/CSS, Javascript, Python. 
+- 💞️ I’m looking to collaborate on ... ANYTHING!
 - 📫 How to reach me ...
 
 <!---
