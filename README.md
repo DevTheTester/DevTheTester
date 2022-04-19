@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevonKC
+- 👋 Hi, I’m Devon
 - 👀 I’m interested in ... Coding, Testing, Gaming, Blockchains, Other things.    
 - 🌱 I’m currently learning ... QA, HTML/CSS, Javascript, Python. 
 - 💞️ I’m looking to collaborate on ... ANYTHING!
