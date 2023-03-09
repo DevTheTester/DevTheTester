@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Devon
 - 👀 I’m interested in ... Software Testing and Development!    
-- 🌱 I’m currently working as a Junior Software Tester at an IoT company! 
+- 🌱 I’m currently working as a Software Tester at an IoT company! 
 - 💞️ Open to collaborate, email me at dev.kahika.campbell@gmail.com
 
 <!---
