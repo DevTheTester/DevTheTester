@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Devon
-- 👀 I’m interested in ... Software Testing and Development!    
-- 🌱 I’m working as a Software Tester for a mobile and web application and studying computer science! 
+- 👋 My name is actually Dev.
+- 👀 I’m a "self taught" dev. 
+- 🌱 I have a lot of experience in QA for mobile, desktop, and web applications.
 
 <!---
 DevTheTester/DevTheTester is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
